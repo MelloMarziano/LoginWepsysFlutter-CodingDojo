@@ -1,16 +1,39 @@
-# wepsys_login
+# Login Wepsys Flutter
+Login basico hecho en Flutter presentado en el Code Dojo de Wepsys por [Eliu Ortega] los principales temas presentados fueron:
 
-A new Flutter project.
+  - Comenzar con Flutter
+  - Vistaso rapido a la syntax de Dart
 
-## Getting Started
+# Que Necesitas!
 
-This project is a starting point for a Flutter application.
+  - El SDK de Android o XCODE (si estas en MAC).
+  - Un editor de codigo o IDE con los plugins necesarios(VS Code, InteliJ, Android Studio o XCODE).
+ 
 
-A few resources to get you started if this is your first Flutter project:
+Tambien puedes:
+  - Aprender por otro lado.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+### comenzar...
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Para Instalar las dependencias...
+
+```sh
+$ cd LoginWepsysFlutter-CodingDojo
+$ flutter packages get
+```
+
+### Ejecutar.
+
+Para ejecutar abre tu terminal favorito y escribe:
+
+```sh
+$ flutter run
+```
+
+MIT
+
+**Free Software!**
+
+   [Eliu Ortega]: <https://github.com/MelloMarziano>
+
+
