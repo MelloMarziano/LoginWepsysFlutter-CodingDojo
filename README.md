@@ -2,7 +2,7 @@
 Login basico hecho en Flutter presentado en el Code Dojo de Wepsys por [Eliu Ortega] los principales temas presentados fueron:
 
   - Comenzar con Flutter
-  - Vistaso rapido a la syntax de Dart
+  - Vistaso rapido a la sintaxis de Dart
 
 # Que Necesitas!
 
