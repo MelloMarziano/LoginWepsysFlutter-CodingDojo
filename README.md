@@ -1,17 +1,16 @@
 # Login Wepsys Flutter
-Login basico hecho en Flutter presentado en el Code Dojo de Wepsys por [Eliu Ortega] los principales temas presentados fueron:
+Login básico hecho en Flutter presentado en el Code Dojo de Wepsys por [Eliu Ortega] los principales temas presentados fueron:
 
-  - Comenzar con Flutter
-  - Vistaso rapido a la sintaxis de Dart
+ - Comenzar con Flutter
+ - Vistazo rápido a la sintaxis de Dart
 
-# Que Necesitas!
+# Qué Necesitas!
 
-  - El SDK de Android o XCODE (si estas en MAC).
-  - Un editor de codigo o IDE con los plugins necesarios(VS Code, InteliJ, Android Studio o XCODE).
- 
+ - El SDK de Android o XCODE (si estas en MAC).
+ - Un editor de código o IDE con los plugins necesarios(VS Code, InteliJ, Android Studio o XCODE).
 
-Tambien puedes:
-  - Aprender por otro lado.
+También puedes:
+ - Aprender por otro lado.
 
 ### comenzar...
 
@@ -34,6 +33,8 @@ MIT
 
 **Free Software!**
 
-   [Eliu Ortega]: <https://github.com/MelloMarziano>
+  [Eliu Ortega]: <https://github.com/MelloMarziano>
+
+
 
 
